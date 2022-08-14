@@ -41,10 +41,10 @@ This project uses following types of color values:
   - This file is in the root folder and contains the HTML file
 
 - styles.css
-  - This file is in the root folder and contains the HTML file
+  - This file is in the root folder and contains the CSS file
 
 - CSS Color Markers screenshot
-  - This file is in the root folder and shows the screenshot of the rendered result 
+  - This file is in the root folder and contains the PNG file of the rendered result 
 
 
 
