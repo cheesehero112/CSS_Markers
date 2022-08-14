@@ -58,4 +58,4 @@ Screenshot of CSS Color Markers below
 
 ## References
 
-"CSS Color Markers" is the 3rd project from FreeCodeCamp's Responsive Web Design course.  [FreeCodeCamp Responsive Wed Design](
+"CSS Color Markers" is the 3rd project from FreeCodeCamp's Responsive Web Design course.  [FreeCodeCamp Responsive Wed Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
