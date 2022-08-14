@@ -52,7 +52,7 @@ This project uses following types of color values:
 
 Screenshot of CSS Color Markers below
 
-![CSSMarkers-screenshot](https://github.com/cheesehero112/Cafe_Menu/raw/main/cafemenu.screenshot.png)
+![CSSMarkers-screenshot](https://github.com/cheesehero112/CSS_Markers/raw/main/ColorMarker-screenshot.png)
 
 
 
